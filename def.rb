@@ -446,5 +446,3 @@ def conectando_conta
 		end
 	end
 end
-
-
